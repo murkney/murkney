@@ -3,7 +3,7 @@
 -->
 
 <p align=center >
-    <img width=420 height=165 src="https://github-readme-stats-fork-akd2.vercel.app/api?username=murkney&bg_color=0000&text_color=0cf574&title_color=&icon_color=ffa600&show_icons=true&border_color=afafaf81&border_radius=12" "alt="https://github.com/murkney" />
+    <img width=640 height=220 src="https://github-readme-stats-fork-akd2.vercel.app/api?username=murkney&bg_color=0000&text_color=0cf574&title_color=&icon_color=ffa600&show_icons=true&border_color=afafaf81&border_radius=12" "alt="https://github.com/murkney" />
 </p>
 
 <p align=center >
