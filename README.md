@@ -3,8 +3,8 @@
 -->
 
 <p align=center >
-    <img width=420 height=165 src="https://github-readme-stats-fork-akd2.vercel.app/api?username=murkney&bg_color=0000&text_color=509e2f&title_color=&icon_color=ffa600&show_icons=true&border_color=afafaf81&border_radius=12" "alt="https://github.com/murkney" />
-    <img width=420 height=165 src="https://github-readme-stats.vercel.app/api/top-langs/?username=murkney&layout=compact&bg_color=0000&text_color=509e2f&border_color=afafaf81&border_radius=12" />
+    <img width=420 height=165 src="https://github-readme-stats-fork-akd2.vercel.app/api?username=murkney&count_private=true&bg_color=0000&text_color=509e2f&title_color=&icon_color=ffa600&show_icons=true&border_color=afafaf81&border_radius=12" "alt="https://github.com/murkney" />
+    <img width=420 height=165 src="https://github-readme-stats.vercel.app/api/top-langs/?username=murkney&count_private=true&layout=compact&bg_color=0000&text_color=509e2f&border_color=afafaf81&border_radius=12" />
 </p>
 
 <p align=center >
