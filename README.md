@@ -8,7 +8,7 @@
 </p>
 
 <p align=center >
-    <img src="https://komarev.com/ghpvc/?username=murkney&color=509e2f" "alt="https://github.com/murkney" />
+    <img src="https://komarev.com/ghpvc/?username=murkney&color=509e2f" "alt="https://github.com/murkney"/>
 </p>
 
 <!--
